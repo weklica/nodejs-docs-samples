@@ -17,7 +17,7 @@
     "test": "repo-tools test run --cmd ava -- -T 65s --verbose system-test/*.test.js"
   },
   "dependencies": {
-    "@opencensus/core": "^0.0.9",
+    "@opencensus/core": "^0.0.10",
     "@opencensus/exporter-stackdriver": "^0.0.9"
   },
   "devDependencies": {
